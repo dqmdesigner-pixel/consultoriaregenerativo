@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://consultoriaregenerativo.netlify.app/sitemap.xml
+Sitemap: https://consultoriaonlineskincare.netlify.app/sitemap.xml
